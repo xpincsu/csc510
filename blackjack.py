@@ -6,4 +6,4 @@ def blackjack(a,b,c):
   else:
     return 'BUST'
 
-print(blackjack(5,6,7))
+#print(blackjack(5,6,7))
